@@ -1,7 +1,4 @@
-import torch 
-import torch.nn as nn
-import matplotlib.pyplot as plt 
-from itertools import chain 
+import matplotlib.pyplot as plt  
 import matplotlib.pyplot as plt
 from matplotlib.widgets import Slider
 import numpy as np
