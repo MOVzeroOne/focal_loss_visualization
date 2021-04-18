@@ -2,6 +2,6 @@
 
 
 
-![](figure 1.gif)
+![](figure_1.gif)
 
-![](figure 2.gif)
+![](figure_2.gif)
